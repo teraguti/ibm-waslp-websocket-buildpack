@@ -1,0 +1,6 @@
+# version: uri
+#    uri: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/beta/wlp-beta-runtime-2014.11.0.0.jar
+---
+2014.6.0_beta:
+    uri: https://raw.githubusercontent.com/teraguti/ibm-websphere-liberty-buildpack/master/download/waslp-beta/wlp-beta-runtime-2014.6.0.0.jar
+    license: http://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/beta/lafiles/en.html
